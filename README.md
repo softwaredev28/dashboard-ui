@@ -1,0 +1,2 @@
+- npm install tailwindcss@^3.0.19
+- npm run build
